@@ -3,6 +3,10 @@
 
 [![Build Status](https://dev.azure.com/codegator/CodeGator.DataAnnotations/_apis/build/status%2FCodeGator.CodeGator.DataAnnotations?branchName=main)](https://dev.azure.com/codegator/CodeGator.DataAnnotations/_build/latest?definitionId=112&branchName=main)
 
+![NuGet Version](https://img.shields.io/nuget/v/CodeGator.DataAnnotations)
+
+![NuGet Downloads](https://img.shields.io/nuget/dt/CodeGator.DataAnnotations)
+
 #### What does it do?
 This package contains data annotations used by other CodeGator solutions
 
